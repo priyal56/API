@@ -1,0 +1,21 @@
+{
+  "name": "get-request",
+  "version": "1.0.0",
+  "description": "GET the information using Node API",
+  "main": "index.js",
+  "scripts": {
+    "start": "app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyal Agarwal",
+  "license": "ISC",
+  "keywords": [
+    "API",
+    "JS",
+    "Node.js"
+  ],
+  "dependencies": {
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {}
+}
